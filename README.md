@@ -1,7 +1,7 @@
 # JAVA-FULL-STACK-DEVELOPMENT
 Learning Content
 
-HTML
+# HTML
 Save the below file as HTML on VS Code and then open the file in web browser
 
 <!DOCTYPE html>
