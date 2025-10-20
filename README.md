@@ -1,7 +1,7 @@
 # JAVA-FULL-STACK-DEVELOPMENT
 Learning Content
 
-# HTML
+# HTML & CSS
 Save the below file as HTML on VS Code and then open the file in web browser
 
 <!DOCTYPE html>
@@ -30,3 +30,28 @@ It will display the page - file:///C:/Users/Sumayya/Desktop/Summ-Resume/HTML.htm
 
 
 <!DOCTYPE html> - The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect. In HTML 5, the declaration is simple: <!DOCTYPE html>. In older documents (HTML 4 or XHTML), the declaration is more complicated because the declaration must refer to a DTD (Document Type Definition).
+
+# Worked on VS CODE & Run it using live server
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first Webpage</title>
+        <style>
+            img {
+                width: 100px;
+                border-radius: 60px; 
+            float: left; 
+        margin-right: 10px;         }
+        p.username {
+            font-weight: bold;
+            color: blue;
+        }
+        </style>
+        <body>
+            <img src="images/Anass.png">
+            <p class="username">@MohammadAnas</p>
+            <p>I love my husband too much!</p>
+        </body>
+    </head>
+</html>
+
